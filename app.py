@@ -249,7 +249,6 @@ def main():
                     vectorstore.add_documents(documents)
 
                    
-
            
 
                 except Exception as e:
