@@ -18,7 +18,7 @@ lets users upload YouTube URLs and instantly chat with the video's content. Unde
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/prabal-k/Youtube_Conversational_AI
+git clone https://github.com/kopiladevkota/Youtube-conversational-ai.git
 ```
 
 ### 2. Open with VsCode ,Create and Activate a Python Virtual Environment
