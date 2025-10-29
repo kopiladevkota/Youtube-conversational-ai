@@ -421,7 +421,6 @@ workflow.add_conditional_edges(
 # Add edges from each node to END
 workflow.add_edge("handle_general_query", END)
 workflow.add_edge("handle_video_qa", END)
-
 # Compile the app
 app = workflow.compile(checkpointer=checkpointer)
 
